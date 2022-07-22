@@ -1,13 +1,22 @@
 {
   "files": {
-    "main.css": "/wedding-invitation/static/css/main.1d766016.css",
-    "main.js": "/wedding-invitation/static/js/main.579a7a5a.js",
+    "main.css": "/wedding-invitation/static/css/main.284d54cc.css",
+    "main.js": "/wedding-invitation/static/js/main.f4ae9664.js",
+    "static/media/GothicA1-Thin.ttf": "/wedding-invitation/static/media/GothicA1-Thin.870186b0b3b767405e14.ttf",
+    "static/media/GothicA1-ExtraLight.ttf": "/wedding-invitation/static/media/GothicA1-ExtraLight.f7782dd74b6e66b1ebb6.ttf",
+    "static/media/GothicA1-Light.ttf": "/wedding-invitation/static/media/GothicA1-Light.06857cbe9659227c0223.ttf",
+    "static/media/GothicA1-Regular.ttf": "/wedding-invitation/static/media/GothicA1-Regular.f8d31e6379bbc3879859.ttf",
+    "static/media/GothicA1-Medium.ttf": "/wedding-invitation/static/media/GothicA1-Medium.6d5144e314e501a11ee7.ttf",
+    "static/media/GothicA1-SemiBold.ttf": "/wedding-invitation/static/media/GothicA1-SemiBold.7a6f7acbb11c9deeaf75.ttf",
+    "static/media/GothicA1-Bold.ttf": "/wedding-invitation/static/media/GothicA1-Bold.feb5179ddd71c2f03f01.ttf",
+    "static/media/GothicA1-ExtraBold.ttf": "/wedding-invitation/static/media/GothicA1-ExtraBold.0a6ac067f233054a04d6.ttf",
+    "static/media/GothicA1-Black.ttf": "/wedding-invitation/static/media/GothicA1-Black.4fa8513839e1fe67940b.ttf",
     "index.html": "/wedding-invitation/index.html",
-    "main.1d766016.css.map": "/wedding-invitation/static/css/main.1d766016.css.map",
-    "main.579a7a5a.js.map": "/wedding-invitation/static/js/main.579a7a5a.js.map"
+    "main.284d54cc.css.map": "/wedding-invitation/static/css/main.284d54cc.css.map",
+    "main.f4ae9664.js.map": "/wedding-invitation/static/js/main.f4ae9664.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d766016.css",
-    "static/js/main.579a7a5a.js"
+    "static/css/main.284d54cc.css",
+    "static/js/main.f4ae9664.js"
   ]
 }
