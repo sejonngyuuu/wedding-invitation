@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wedding-invitation/static/css/main.7d7364c2.css",
-    "main.js": "/wedding-invitation/static/js/main.1d82992b.js",
+    "main.css": "/wedding-invitation/static/css/main.43676d73.css",
+    "main.js": "/wedding-invitation/static/js/main.931f453c.js",
     "static/media/NotoSansKR-Black.otf": "/wedding-invitation/static/media/NotoSansKR-Black.dba005b6b1bed712b472.otf",
     "static/media/NotoSansKR-Bold.otf": "/wedding-invitation/static/media/NotoSansKR-Bold.c252383c4f70753be0e7.otf",
     "static/media/NotoSansKR-Medium.otf": "/wedding-invitation/static/media/NotoSansKR-Medium.56207b5e52841342a21b.otf",
@@ -19,11 +19,11 @@
     "static/media/GothicA1-Black.ttf": "/wedding-invitation/static/media/GothicA1-Black.4fa8513839e1fe67940b.ttf",
     "static/media/picture_3.PNG": "/wedding-invitation/static/media/picture_3.742ab790591a906dd8ff.PNG",
     "index.html": "/wedding-invitation/index.html",
-    "main.7d7364c2.css.map": "/wedding-invitation/static/css/main.7d7364c2.css.map",
-    "main.1d82992b.js.map": "/wedding-invitation/static/js/main.1d82992b.js.map"
+    "main.43676d73.css.map": "/wedding-invitation/static/css/main.43676d73.css.map",
+    "main.931f453c.js.map": "/wedding-invitation/static/js/main.931f453c.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d7364c2.css",
-    "static/js/main.1d82992b.js"
+    "static/css/main.43676d73.css",
+    "static/js/main.931f453c.js"
   ]
 }
