@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wedding-invitation/static/css/main.44679f6a.css",
-    "main.js": "/wedding-invitation/static/js/main.c3fc9922.js",
+    "main.css": "/wedding-invitation/static/css/main.097f14ae.css",
+    "main.js": "/wedding-invitation/static/js/main.2afc051d.js",
     "static/media/NotoSansKR-Black.otf": "/wedding-invitation/static/media/NotoSansKR-Black.dba005b6b1bed712b472.otf",
     "static/media/NotoSansKR-Bold.otf": "/wedding-invitation/static/media/NotoSansKR-Bold.c252383c4f70753be0e7.otf",
     "static/media/NotoSansKR-Medium.otf": "/wedding-invitation/static/media/NotoSansKR-Medium.56207b5e52841342a21b.otf",
@@ -19,15 +19,17 @@
     "static/media/GothicA1-Black.ttf": "/wedding-invitation/static/media/GothicA1-Black.4fa8513839e1fe67940b.ttf",
     "static/media/picture_1.PNG": "/wedding-invitation/static/media/picture_1.26b89f7a383dca390242.PNG",
     "static/media/drink.PNG": "/wedding-invitation/static/media/drink.6bca3a41f7aea2f397f7.PNG",
+    "static/media/groom.PNG": "/wedding-invitation/static/media/groom.aa805b8f0576be9ee403.PNG",
+    "static/media/bride.PNG": "/wedding-invitation/static/media/bride.07f157c2b221d602722d.PNG",
     "static/media/tel_blue.PNG": "/wedding-invitation/static/media/tel_blue.4c8344663c0b7287207c.PNG",
     "static/media/tel_pink.PNG": "/wedding-invitation/static/media/tel_pink.0c920b06a875e284226a.PNG",
     "static/media/heart.PNG": "/wedding-invitation/static/media/heart.603e25b647732bb1a450.PNG",
     "index.html": "/wedding-invitation/index.html",
-    "main.44679f6a.css.map": "/wedding-invitation/static/css/main.44679f6a.css.map",
-    "main.c3fc9922.js.map": "/wedding-invitation/static/js/main.c3fc9922.js.map"
+    "main.097f14ae.css.map": "/wedding-invitation/static/css/main.097f14ae.css.map",
+    "main.2afc051d.js.map": "/wedding-invitation/static/js/main.2afc051d.js.map"
   },
   "entrypoints": [
-    "static/css/main.44679f6a.css",
-    "static/js/main.c3fc9922.js"
+    "static/css/main.097f14ae.css",
+    "static/js/main.2afc051d.js"
   ]
 }
